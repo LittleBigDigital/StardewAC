@@ -14,3 +14,5 @@ Add this application to System Settings -> Privacy & Security -> Accessibility, 
 ### Contribution
 
 PR's welcomed.
+
+If you're feeling very generous and enjoy this product, please consider sponsoring the project: https://github.com/sponsors/LittleBigDigital
